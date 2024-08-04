@@ -5,4 +5,4 @@
 - Estou desenvolvendo com a linguagem **JavaScript**;
 - Utilizo como ferramenta de aprendizagem.
 
-![]([https://tenor.com/blUga.gif](https://tenor.com/pt-BR/view/cat-chess-chess-cat-cattitude-cat-cats-gif-17575140)
+![](https://media1.tenor.com/m/-L_CgmeBPV0AAAAd/cat-chess-chess-cat.gif)
