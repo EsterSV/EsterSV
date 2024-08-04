@@ -1,7 +1,7 @@
 ## Seja bem-vindo(a) ao meu perfil 🔭
 
 - Iniciante no _GitHub_;
-- Aluna da [Alura];
+- Aluna da [Alura](https://www.alura.com.br);
 - Estou desenvolvendo com a linguagem **JavaScript**;
 - Utilizo como ferramenta de aprendizagem.
 
