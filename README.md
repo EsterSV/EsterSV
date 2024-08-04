@@ -4,3 +4,5 @@
 - Aluna da _Alura_;
 - Estou desenvolvendo com a linguagem **JavaScript**;
 - Utilizo como ferramenta de aprendizagem.
+
+![](https://tenor.com/blUga.gif)
